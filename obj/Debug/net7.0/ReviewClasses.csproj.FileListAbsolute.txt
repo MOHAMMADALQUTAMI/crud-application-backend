@@ -1,0 +1,15 @@
+D:\Crud Application\ReviewClasses\obj\Debug\net7.0\ReviewClasses.csproj.AssemblyReference.cache
+D:\Crud Application\ReviewClasses\obj\Debug\net7.0\ReviewClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Crud Application\ReviewClasses\obj\Debug\net7.0\ReviewClasses.AssemblyInfoInputs.cache
+D:\Crud Application\ReviewClasses\obj\Debug\net7.0\ReviewClasses.AssemblyInfo.cs
+D:\Crud Application\ReviewClasses\obj\Debug\net7.0\ReviewClasses.csproj.CoreCompileInputs.cache
+D:\Crud Application\ReviewClasses\bin\Debug\net7.0\ReviewClasses.exe
+D:\Crud Application\ReviewClasses\bin\Debug\net7.0\ReviewClasses.deps.json
+D:\Crud Application\ReviewClasses\bin\Debug\net7.0\ReviewClasses.runtimeconfig.json
+D:\Crud Application\ReviewClasses\bin\Debug\net7.0\ReviewClasses.dll
+D:\Crud Application\ReviewClasses\bin\Debug\net7.0\ReviewClasses.pdb
+D:\Crud Application\ReviewClasses\obj\Debug\net7.0\ReviewClasses.dll
+D:\Crud Application\ReviewClasses\obj\Debug\net7.0\refint\ReviewClasses.dll
+D:\Crud Application\ReviewClasses\obj\Debug\net7.0\ReviewClasses.pdb
+D:\Crud Application\ReviewClasses\obj\Debug\net7.0\ReviewClasses.genruntimeconfig.cache
+D:\Crud Application\ReviewClasses\obj\Debug\net7.0\ref\ReviewClasses.dll
